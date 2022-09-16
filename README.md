@@ -13,7 +13,7 @@ Projeto construído no evento NLW Return da Rocketseat.
 - HTML
 - CSS
 - JAVASCRIPT
-- GIT 
+- GIT
 - GITHUB
 
 > ## 💛 Contact
