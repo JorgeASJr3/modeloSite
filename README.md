@@ -6,7 +6,7 @@
 
 Projeto construído no evento NLW Return da Rocketseat.
 
-[🔗Clique aqui para acessar](https://github.com/JorgeASJr3/modeloSite/)
+[🔗Clique aqui para acessar](jorgeasjr3.github.io/modeloSite/)
 
 > ## 🧰 Technology used
 
